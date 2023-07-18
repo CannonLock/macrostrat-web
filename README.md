@@ -4,7 +4,7 @@ Macrostrat's map interface is the intersection of stratigraphic, bedrock, paleoe
 
 Currently the application is bundled using webpackv5; however, in the near future we will be transitioning to use [NextJs](https://nextjs.org/) to take advantage of server-side rendering, simplified page routing, and already managed bundling.
 
-## Getting started
+## Getting stared
 
 This package requires relatively new features of package managers for multi-package workspaces.
 Make sure you have NPM version 7 or higher. This can be installed with `npm install -g npm@7`.
